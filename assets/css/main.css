@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.btn1{
+width: 100px;
+height: 50px;
+font-size: 20px;
+text-transform: capitalize;
+font-weight: 700;
+background-color: blue;
+border: none;
+border-radius: 20px;
+margin: 20px;
+cursor: pointer;
+border: 1px solid white;
+}
+
+.btn2{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 700;
+    background-color: red;
+    border: none;
+    border-radius: 20px;
+ margin-left: 100px;   
+    cursor: pointer;
+    border: 1px solid white;
+    display: block;
+    }
+
+    .btn3{
+        width: 100px;
+        height: 50px;
+        font-size: 20px;
+        text-transform: capitalize;
+        font-weight: 700;
+        background-color: black;
+        border: none;
+        border-radius: 20px;
+         margin-left: 200px;   
+        cursor: pointer;
+        border: 1px solid white;
+        display: block;
+        color: white;
+        }
+
+        .btn4{
+            width: 100px;
+            height: 50px;
+            font-size: 20px;
+            text-transform: capitalize;
+            font-weight: 700;
+            background-color: aqua;
+            border: none;
+            border-radius: 20px;
+             margin-left: 300px;   
+            cursor: pointer;
+            border: 1px solid white;
+            display: block;
+            color: white;
+            }
+
+            .btn5{
+                width: 100px;
+                height: 50px;
+                font-size: 20px;
+                text-transform: capitalize;
+                font-weight: 700;
+                background-color: yellow;
+                border: none;
+                border-radius: 20px;
+                 margin-left: 400px;   
+                cursor: pointer;
+                border: 1px solid white;
+                display: block;
+                color: white;
+                position: relative;
+                top: -220px;
+                left: 300px;
+                }
+                .btn6{
+                    width: 100px;
+                    height: 50px;
+                    font-size: 20px;
+                    text-transform: capitalize;
+                    font-weight: 700;
+                    background-color: green;
+                    border: none;
+                    border-radius: 20px;
+                     margin-left: 500px;   
+                    cursor: pointer;
+                    border: 1px solid white;
+                    display: block;
+                    color: white;
+                    position: relative;
+                top: -200px;
+                left: 150px;
+                    }
+                    .btn7{
+                        width: 100px;
+                        height: 50px;
+                        text-transform: capitalize;
+                        font-weight: 700;
+                        background-color: greenyellow;
+                        border: none;
+                        border-radius: 20px;
+                         margin-left: 600px;   
+                        cursor: pointer;
+                        border: 1px solid white;
+                        display: block;
+                        color: white;
+                        position: relative;
+                        top: -180px;
+                        left:-50px;
+                        }
+                        .btn8{
+                            width: 100px;
+                            height: 50px;
+                            font-size: 20px;
+                            text-transform: capitalize;
+                            font-weight: 700;
+                            background-color: gray;
+                            border: none;
+                            border-radius: 20px;
+                             margin-left: 600px;   
+                            cursor: pointer;
+                            border: 1px solid white;
+                            display: block;
+                            color: white;
+                            position: relative;
+                            top: -170px;
+                            left:-170px;
+                            }
